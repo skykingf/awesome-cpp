@@ -13,4 +13,7 @@
 [TreeFrog](https://github.com/treefrogframework/treefrog-framework): High-speed C++ MVC Framework for Web Application. 也是基于Qt的一个C++ Web框架，版本号已更新到v1.9.2，最近一次发布日期是2015.09.11。
 
 ## SIP客户端
-[MicroSIP](http://www.microsip.org/): Open source portable SIP softphone based on PJSIP stack for Windows OS. 版本号已更新到v3.11.0，最近一次发布日期是2016.2.06。
+[MicroSIP](http://www.microsip.org/): Windows平台基于PJSIP栈的可移植开源SIP电话. 版本号已更新到v3.11.0，最近一次发布日期是2016.2.06。
+
+## 网络传输工具
+[NitroShare](https://github.com/nitroshare/nitroshare-desktop): 一个跨平台的网络文件传输工具，可以运行于 Linux， Windows 和 MacOS X 系统，设置容易，无需配置，易于使用；支持在本地网络上自动发现运行着 Nitroshare 设备的能力；安全性上支持可选的 TLS (传输层安全协议Transport Layer Security) 编码传输方式；支持网络高速传输功能；支持文件和目录（Windows 上的文件夹）传输；支持对发送文件、连接设备等这些的桌面通知功能。当前版本号v0.3.3，最近一次发布日期是2016.7.15。
