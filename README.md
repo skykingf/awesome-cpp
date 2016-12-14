@@ -17,3 +17,6 @@
 
 ## 网络传输工具
 [NitroShare](https://github.com/nitroshare/nitroshare-desktop): 一个跨平台的网络文件传输工具，可以运行于 Linux， Windows 和 MacOS X 系统，设置容易，无需配置，易于使用；支持在本地网络上自动发现运行着 Nitroshare 设备的能力；安全性上支持可选的 TLS (传输层安全协议Transport Layer Security) 编码传输方式；支持网络高速传输功能；支持文件和目录（Windows 上的文件夹）传输；支持对发送文件、连接设备等这些的桌面通知功能。当前版本号v0.3.3，最近一次发布日期是2016.7.15。
+
+## BT下载工具
+[Transmission-Qt](https://sourceforge.net/projects/trqtw/): 一个跨平台的图形化BT下载工具，可以运行于 Linux， Windows 和 MacOS X 系统。当前版本号v2.84.9，最近一次发布日期是2016.9.18。
