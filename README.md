@@ -39,4 +39,7 @@
 
 ## 对象关系映射ORM
 [QuickModel](https://github.com/danielfranca/quickmodel/): Qt/QML的一个简单易用的ORM库，主要目标是在SQLite上提供一层非常简便的ORM层。   
-[QmlSql](https://github.com/JosephMillsAtWork/QmlSql/): 提供用于连接数据库进行SQL查询的辅助对象，基于GNU版权发布。   
+[QmlSql](https://github.com/JosephMillsAtWork/QmlSql/): 提供用于连接数据库进行SQL查询的辅助对象，基于GNU版权发布。  
+
+## SNMP
+[SNMP++](http://www.agentpp.com/download.html): 一个官方应用的SNMP协议类库，当前版本号[v3.3.9](http://www.agentpp.com/download/snmp++-3.3.9.tar.gz)。   
