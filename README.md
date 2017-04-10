@@ -43,3 +43,15 @@
 
 ## SNMP
 [SNMP++](http://www.agentpp.com/download.html): 一个官方应用的SNMP协议类库，当前版本号[v3.3.9](http://www.agentpp.com/download/snmp++-3.3.9.tar.gz)。   
+
+## Windows 安装程序开发工具
+[NSIS](http://nsis.sourceforge.net/): 流行的开源Windows平台安装程序开发工具，代码托管在[SourceForge](https://sourceforge.net/p/nsis/code/HEAD/tree/NSIS/trunk/Source/)，国内有粉丝论坛[www.nsisfans.com](http://www.nsisfans.com)，当前版本号[v3.0.1](https://sourceforge.net/projects/nsis/files/latest/download?source=files)。  
+
+## 大数据处理
+[Thrill](http://project-thrill.org/): C++开发的分布式大数据处理框架，代码托管在[Github](https://github.com/thrill/thrill)，发布时间不长，效果待观察。  
+
+## 机器学习
+[DMLC](http://dmlc.ml/): 国人开发的机器学习系统，代码托管在[Github](https://github.com/dmlc)，集成了XGBoost、MXNET及Minerva等机器学习库与rabit和参数服务器等系统组件。  
+
+# 系统监控
+[netdata](https://my-netdata.io/): C 开发的分布式实时的系统性能和健康监控工具，可运行在Linux、FreeBSD和macOS平台，代码托管在[Github](https://github.com/firehol/netdata)，当前版本是[v1.6.0](https://github.com/firehol/netdata/releases/latest)。  
