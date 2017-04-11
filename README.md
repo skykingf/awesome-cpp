@@ -53,5 +53,7 @@
 ## 机器学习
 [DMLC](http://dmlc.ml/): 国人开发的机器学习系统，代码托管在[Github](https://github.com/dmlc)，集成了XGBoost、MXNET及Minerva等机器学习库与rabit和参数服务器等系统组件。  
 
-# 系统监控
-[netdata](https://my-netdata.io/): C 开发的分布式实时的系统性能和健康监控工具，可运行在Linux、FreeBSD和macOS平台，代码托管在[Github](https://github.com/firehol/netdata)，当前版本是[v1.6.0](https://github.com/firehol/netdata/releases/latest)。  
+# 监控工具
+[netdata](https://my-netdata.io/): C开发的分布式实时的系统性能和健康监控工具，可运行在Linux、FreeBSD和macOS平台，代码托管在[Github](https://github.com/firehol/netdata)，当前版本是[v1.6.0](https://github.com/firehol/netdata/releases/latest)。  
+
+[bmon](https://github.com/tgraf/bmon): C开发的宽带监控和网速评估工具，可运行在Linux和macOS平台，代码托管在[Github](https://github.com/tgraf/bmon)，当前版本是[v4.0](https://github.com/tgraf/bmon/archive/v4.0.zip)。  
