@@ -57,3 +57,9 @@
 [netdata](https://my-netdata.io/): C开发的分布式实时的系统性能和健康监控工具，可运行在Linux、FreeBSD和macOS平台，代码托管在[Github](https://github.com/firehol/netdata)，当前版本是[v1.6.0](https://github.com/firehol/netdata/releases/latest)。  
 
 [bmon](https://github.com/tgraf/bmon): C开发的宽带监控和网速评估工具，可运行在Linux和macOS平台，代码托管在[Github](https://github.com/tgraf/bmon)，当前版本是[v4.0](https://github.com/tgraf/bmon/archive/v4.0.zip)。  
+
+## GIS
+[QGIS](http://www.qgis.org/): QGIS由Gary Sherman于2002年开始开发，并于2004年成为开源地理空间基金会的一个孵化项目。版本1.0于2009年1月发布。QGIS以C++写成，它的GUI使用了Qt库。QGIS允许集成使用C++ 或Python写成的插件。除了Qt之外，QGIS需要的依赖还包括GEOS和SQLite。同时也推荐安装GDAL、GRASS GIS、PostGIS和PostgreSQL。QGIS是一个多平台的应用，可以在多种操作系统上运行，包括Mac OS X、Linux、UNIX和Microsoft Windows。最新版本是[v2.18.6](http://qgis.org/downloads/qgis-latest.tar.bz2)。     
+
+## 文件系统
+[FastDFS](https://github.com/happyfish100/fastdfs/): FastDFS是一款C开发的开源的、分布式文件系统（Distributed File System），由淘宝开发平台部资深架构师余庆开发。作为一个分布式文件系统，它对文件进行管理，功能包括：文件存储、文件同步、文件访问（文件上传、文件下载）等，解决了大容量存储和负载均衡的问题，特别适合中小文件（建议范围：4KB < file_size <500MB），对以文件为载体的在线服务，如相册网站、视频网站等等具有显著的效果。最新版本是[v5.10](https://github.com/happyfish100/fastdfs/archive/V5.10.zip)。     
