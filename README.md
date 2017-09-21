@@ -67,4 +67,7 @@
 ## 机器视觉
 [OpenCV](http://opencv.org/): OpenCV是一个基于BSD许可（开源）发行的跨平台计算机视觉库，可以运行在Linux、Windows、Android和Mac OS操作系统上。它轻量级而且高效——由一系列C函数和少量C++类构成，同时提供了Python、Ruby、MATLAB等语言的接口，实现了图像处理和计算机视觉方面的很多通用算法。OpenCV用C++语言编写，它的主要接口也是C++语言，但是依然保留了大量的C语言接口。该库也有大量的Python, Java and MATLAB/OCTAVE (版本2.5)的接口。最新版本是[v3.3.0](https://github.com/opencv/opencv/archive/3.3.0.zip)。     
 
-[OpenBR](http://openbiometrics.org/): OpenBR是一个通用的生物测定学开源框架，支持Windows, Mac OS X, Linux平台，基于Apache 2.0许可发布，基于Qt和OpenCV，使用CMake构建系统。最新版本是[v1.1.0](https://github.com/biometrics/openbr/archive/v1.1.0.zip)。   
+[OpenBR](http://openbiometrics.org/): OpenBR是一个通用的生物测定学开源框架，支持Windows, Mac OS X, Linux平台，基于Apache 2.0许可发布，基于Qt和OpenCV，使用CMake构建系统。最新版本是[v1.1.0](https://github.com/biometrics/openbr/archive/v1.1.0.zip)。
+
+## 语音识别
+[Kaldi](http://kaldi-asr.org/): Kaldi是一个基于Apache许可（开源）发行的跨平台语音识别库，可以运行在Linux、Windows、Android和Mac OS操作系统上。代码托管在[Github](https://github.com/kaldi-asr/kaldi)。    
