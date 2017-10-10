@@ -71,3 +71,6 @@
 
 ## 语音识别
 [Kaldi](http://kaldi-asr.org/): Kaldi是一个基于Apache许可（开源）发行的跨平台语音识别库，可以运行在Linux、Windows、Android和Mac OS操作系统上。代码托管在[Github](https://github.com/kaldi-asr/kaldi)。    
+
+## OCR识别
+[Tesseract](https://github.com/tesseract-ocr/): Tesseract是一个开源的OCR识别引擎，最初由HP开发，后开源交给Google继续支持开发和更新。代码托管在[Github](https://github.com/tesseract-ocr/)，最新版本是[v3.05.01](https://github.com/tesseract-ocr/tesseract/archive/3.05.01.zip)。
