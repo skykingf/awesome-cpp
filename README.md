@@ -14,7 +14,7 @@
 [qpm](http://www.qpm.io/): 跨平台的Qt包管理工具,可将包依赖直接编译到二进制文件里，支持Windows、MacOS、Linux，最新版本是v0.10.0。   
 
 ## 界面框架
-[Qt](https://www.qt.io/): 跨平台的整套开源UI框架,使用范围广泛，用户众多。最新版本是v5.9.1。       
+[Qt](https://www.qt.io/): 跨平台的整套开源UI框架,使用范围广泛，用户众多。最新版本是v5.9.2。       
 [WTL](https://sourceforge.net/projects/wtl/): 由微软的ATL(Active Template Library) 小组开发，主要是基于 ATL 对Win32API 的封装。从 2.0 后，功能逐步完善，成为了一个完整的支持窗口的框架(windows framework)。相对于MFC来说，各个类之间依赖小，比较灵活，扩展也灵活，库本身也很小很轻量级，编译出来的exe也小得多。流行的DirectUI技术就是基于WTL编写的。最新版本是v9.1。     
 
 ## Web框架
@@ -58,6 +58,8 @@
 
 [bmon](https://github.com/tgraf/bmon): C开发的宽带监控和网速评估工具，可运行在Linux和macOS平台，代码托管在[Github](https://github.com/tgraf/bmon)，当前版本是[v4.0](https://github.com/tgraf/bmon/archive/v4.0.zip)。  
 
+[Stacer](https://github.com/oguzhaninan/Stacer): Linux系统监控和优化工具，当前版本是[v1.0.8](https://github.com/oguzhaninan/Stacer/archive/v1.0.8.zip)。  
+
 ## GIS
 [QGIS](http://www.qgis.org/): QGIS由Gary Sherman于2002年开始开发，并于2004年成为开源地理空间基金会的一个孵化项目。版本1.0于2009年1月发布。QGIS以C++写成，它的GUI使用了Qt库。QGIS允许集成使用C++ 或Python写成的插件。除了Qt之外，QGIS需要的依赖还包括GEOS和SQLite。同时也推荐安装GDAL、GRASS GIS、PostGIS和PostgreSQL。QGIS是一个多平台的应用，可以在多种操作系统上运行，包括Mac OS X、Linux、UNIX和Microsoft Windows。最新版本是[v2.18.6](http://qgis.org/downloads/qgis-latest.tar.bz2)。     
 
@@ -73,4 +75,16 @@
 [Kaldi](http://kaldi-asr.org/): Kaldi是一个基于Apache许可（开源）发行的跨平台语音识别库，可以运行在Linux、Windows、Android和Mac OS操作系统上。代码托管在[Github](https://github.com/kaldi-asr/kaldi)。    
 
 ## OCR识别
-[Tesseract](https://github.com/tesseract-ocr/): Tesseract是一个开源的OCR识别引擎，最初由HP开发，后开源交给Google继续支持开发和更新。代码托管在[Github](https://github.com/tesseract-ocr/)，最新版本是[v3.05.01](https://github.com/tesseract-ocr/tesseract/archive/3.05.01.zip)。
+[Tesseract](https://github.com/tesseract-ocr/): Tesseract是一个开源的OCR识别引擎，最初由HP开发，后开源交给Google继续支持开发和更新。代码托管在[Github](https://github.com/tesseract-ocr/)，最新版本是[v3.05.01](https://github.com/tesseract-ocr/tesseract/archive/3.05.01.zip)。   
+
+## 网络库
+[LibHTTP](https://www.libhttp.org/): LibHTTP是一个MIT许可的库，用C实现了一个带有websocket功能的HTTP / HTTPS服务器。该库还包括客户端连接到其他服务器的功能。LibHTTP库基于Mongoose(MIT)/Civetweb家族的HTTP服务器，并与这些服务器共享代码，尽管函数调用之间的兼容性是无法保证的。代码托管在[Github](https://github.com/lammertb/libhttp)，最新版本是[v1.8](https://github.com/lammertb/libhttp/archive/v1.8.zip)。   
+
+## 网络代理
+[Nuster](https://github.com/jiangwenyuan/nuster/): Nuster是用C实现的一个基于HAProxy的Web缓存代理服务器，最新版本是[v1.7.9.1](https://github.com/jiangwenyuan/nuster/archive/v1.7.9.1.zip)。   
+
+## 分析工具
+[MTuner](https://github.com/milostosic/MTuner): MTuner是用于Windows，PS4，PS3等的C / C ++内存分析器和内存泄漏查找器。MTuner利用一种新颖的内存分析和分析方法，保持基于时间的记录操作历史。 通过对整个数据集进行查询，可以对您的软件的内存相关行为提供独特的见解。，最新版本是[v4.0.7](https://github.com/milostosic/MTuner/archive/v4.0.7.zip)。    
+
+## Cheatsheet速查表
+[C++17/14/11](https://github.com/AnthonyCalandra/modern-cpp-features): 现代C++语言和库特性的速查表。    
