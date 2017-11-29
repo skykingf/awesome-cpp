@@ -7,7 +7,7 @@
 [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html):LLVM发布的编程规范。     
 
 ## 构建系统
-[CMake](http://www.cmake.org/): 跨平台的免费开源软件,用于管理软件使用独立编译的方法进行构建的过程。最新版本是v3.9.3。       
+[CMake](http://www.cmake.org/): 跨平台的免费开源软件,用于管理软件使用独立编译的方法进行构建的过程。最新版本是[v3.10.0](https://cmake.org/files/v3.10/cmake-3.10.0.zip)。       
 [Ninja](https://github.com/ninja-build/ninja): 注重速度的小型构件工具，最新版本是v1.7.2。    
 
 ## 包管理
@@ -79,6 +79,8 @@
 
 ## 网络库
 [LibHTTP](https://www.libhttp.org/): LibHTTP是一个MIT许可的库，用C实现了一个带有websocket功能的HTTP / HTTPS服务器。该库还包括客户端连接到其他服务器的功能。LibHTTP库基于Mongoose(MIT)/Civetweb家族的HTTP服务器，并与这些服务器共享代码，尽管函数调用之间的兼容性是无法保证的。代码托管在[Github](https://github.com/lammertb/libhttp)，最新版本是[v1.8](https://github.com/lammertb/libhttp/archive/v1.8.zip)。   
+
+[libtins](https://github.com/mfontanini/libtins/): Libtins是一个高级和多平台网络数据包嗅探和制作C++库，最新版本是[v3.5](https://github.com/mfontanini/libtins/archive/v3.5.zip)。   
 
 ## 网络代理
 [Nuster](https://github.com/jiangwenyuan/nuster/): Nuster是用C实现的一个基于HAProxy的Web缓存代理服务器，最新版本是[v1.7.9.1](https://github.com/jiangwenyuan/nuster/archive/v1.7.9.1.zip)。   
