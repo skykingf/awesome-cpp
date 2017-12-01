@@ -13,8 +13,11 @@
 ## 包管理
 [qpm](http://www.qpm.io/): 跨平台的Qt包管理工具,可将包依赖直接编译到二进制文件里，支持Windows、MacOS、Linux，最新版本是v0.10.0。   
 
+## 开发库
+[Boost](http://www.boost.org/): Boost库是一个可移植、提供源代码的C++库，作为标准库的后备，是C++标准化进程的开发引擎之一。 Boost库由C++标准委员会库工作组成员发起，其中有些内容有望成为下一代C++标准库内容。Boost由于其对跨平台的强调，对标准C++的强调，与编写平台无关。大部分boost库功能的使用只需包括相应头文件即可，少数(如正则表达式库，文件系统库等)需要链接库。最新版本是[v1.65.1](https://dl.bintray.com/boostorg/release/1.65.1/source/boost_1_65_1.zip)。   
+
 ## 界面框架
-[Qt](https://www.qt.io/): 跨平台的整套开源UI框架,使用范围广泛，用户众多。最新版本是v5.9.2。       
+[Qt](https://www.qt.io/): 跨平台的整套开源UI框架,使用范围广泛，用户众多。最新版本是v5.9.3。       
 [WTL](https://sourceforge.net/projects/wtl/): 由微软的ATL(Active Template Library) 小组开发，主要是基于 ATL 对Win32API 的封装。从 2.0 后，功能逐步完善，成为了一个完整的支持窗口的框架(windows framework)。相对于MFC来说，各个类之间依赖小，比较灵活，扩展也灵活，库本身也很小很轻量级，编译出来的exe也小得多。流行的DirectUI技术就是基于WTL编写的。最新版本是v9.1。     
 
 ## Web框架
@@ -67,7 +70,7 @@
 [FastDFS](https://github.com/happyfish100/fastdfs/): FastDFS是一款C开发的开源的、分布式文件系统（Distributed File System），由淘宝开发平台部资深架构师余庆开发。作为一个分布式文件系统，它对文件进行管理，功能包括：文件存储、文件同步、文件访问（文件上传、文件下载）等，解决了大容量存储和负载均衡的问题，特别适合中小文件（建议范围：4KB < file_size <500MB），对以文件为载体的在线服务，如相册网站、视频网站等等具有显著的效果。最新版本是[v5.10](https://github.com/happyfish100/fastdfs/archive/V5.10.zip)。     
 
 ## 机器视觉
-[OpenCV](http://opencv.org/): OpenCV是一个基于BSD许可（开源）发行的跨平台计算机视觉库，可以运行在Linux、Windows、Android和Mac OS操作系统上。它轻量级而且高效——由一系列C函数和少量C++类构成，同时提供了Python、Ruby、MATLAB等语言的接口，实现了图像处理和计算机视觉方面的很多通用算法。OpenCV用C++语言编写，它的主要接口也是C++语言，但是依然保留了大量的C语言接口。该库也有大量的Python, Java and MATLAB/OCTAVE (版本2.5)的接口。最新版本是[v3.3.0](https://github.com/opencv/opencv/archive/3.3.0.zip)。     
+[OpenCV](http://opencv.org/): OpenCV是一个基于BSD许可（开源）发行的跨平台计算机视觉库，可以运行在Linux、Windows、Android和Mac OS操作系统上。它轻量级而且高效——由一系列C函数和少量C++类构成，同时提供了Python、Ruby、MATLAB等语言的接口，实现了图像处理和计算机视觉方面的很多通用算法。OpenCV用C++语言编写，它的主要接口也是C++语言，但是依然保留了大量的C语言接口。该库也有大量的Python, Java and MATLAB/OCTAVE (版本2.5)的接口。最新版本是[v3.3.1](https://github.com/opencv/opencv/archive/3.3.1.zip)。     
 
 [OpenBR](http://openbiometrics.org/): OpenBR是一个通用的生物测定学开源框架，支持Windows, Mac OS X, Linux平台，基于Apache 2.0许可发布，基于Qt和OpenCV，使用CMake构建系统。最新版本是[v1.1.0](https://github.com/biometrics/openbr/archive/v1.1.0.zip)。
 
