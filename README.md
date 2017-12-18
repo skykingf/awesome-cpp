@@ -85,6 +85,8 @@
 
 [libtins](https://github.com/mfontanini/libtins/): Libtins是一个高级和多平台网络数据包嗅探和制作C++库，最新版本是[v3.5](https://github.com/mfontanini/libtins/archive/v3.5.zip)。   
 
+[JSON for Modern C++](https://github.com/nlohmann/json/): JSON for Modern C++是一个由德国大牛 nlohmann编写的在C++下使用的JSON库。整个代码由一个头文件组成 json.hpp，没有子项目，没有依赖关系，没有复杂的构建系统，使用起来非常方便。使用C++ 11标准编写，使用json像使用 STL 容器一样，STL和json容器之间可以相互转换。所有类都经过严格的单元测试，覆盖了100%的代码，包括所有特殊的行为。此外，还检查了 Valgrind 是否有内存泄漏。为了保持高质量，该项目遵循核心基础设施倡议(CII)的最佳实践，最新版本是[v3.0.0](https://github.com/nlohmann/json/archive/v3.0.0.zip)。 
+
 ## 网络代理
 [Nuster](https://github.com/jiangwenyuan/nuster/): Nuster是用C实现的一个基于HAProxy的Web缓存代理服务器，最新版本是[v1.7.9.1](https://github.com/jiangwenyuan/nuster/archive/v1.7.9.1.zip)。   
 
