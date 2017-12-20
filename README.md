@@ -4,7 +4,10 @@
 ## 编程规范
 [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines):C++标准委员会发布的编程规范。    
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html):Google发布的编程规范。     
-[LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html):LLVM发布的编程规范。     
+[LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html):LLVM发布的编程规范。    
+
+## Cheatsheet速查表
+[C++17/14/11](https://github.com/AnthonyCalandra/modern-cpp-features): 现代C++语言和库特性的速查表。     
 
 ## 构建系统
 [CMake](http://www.cmake.org/): 跨平台的免费开源软件,用于管理软件使用独立编译的方法进行构建的过程。最新版本是[v3.10.0](https://cmake.org/files/v3.10/cmake-3.10.0.zip)。       
@@ -17,7 +20,7 @@
 [Boost](http://www.boost.org/): Boost库是一个可移植、提供源代码的C++库，作为标准库的后备，是C++标准化进程的开发引擎之一。 Boost库由C++标准委员会库工作组成员发起，其中有些内容有望成为下一代C++标准库内容。Boost由于其对跨平台的强调，对标准C++的强调，与编写平台无关。大部分boost库功能的使用只需包括相应头文件即可，少数(如正则表达式库，文件系统库等)需要链接库。最新版本是[v1.65.1](https://dl.bintray.com/boostorg/release/1.65.1/source/boost_1_65_1.zip)。   
 
 ## 界面框架
-[Qt](https://www.qt.io/): 跨平台的整套开源UI框架,使用范围广泛，用户众多。最新版本是v5.9.3。       
+[Qt](https://www.qt.io/): 跨平台的整套开源UI框架,使用范围广泛，用户众多。最新版本是v5.10.0。       
 [WTL](https://sourceforge.net/projects/wtl/): 由微软的ATL(Active Template Library) 小组开发，主要是基于 ATL 对Win32API 的封装。从 2.0 后，功能逐步完善，成为了一个完整的支持窗口的框架(windows framework)。相对于MFC来说，各个类之间依赖小，比较灵活，扩展也灵活，库本身也很小很轻量级，编译出来的exe也小得多。流行的DirectUI技术就是基于WTL编写的。最新版本是v9.1。     
 
 ## Web框架
@@ -85,7 +88,7 @@
 
 [libtins](https://github.com/mfontanini/libtins/): Libtins是一个高级和多平台网络数据包嗅探和制作C++库，最新版本是[v3.5](https://github.com/mfontanini/libtins/archive/v3.5.zip)。   
 
-[JSON for Modern C++](https://github.com/nlohmann/json/): JSON for Modern C++是一个由德国大牛 nlohmann编写的在C++下使用的JSON库。整个代码由一个头文件组成 json.hpp，没有子项目，没有依赖关系，没有复杂的构建系统，使用起来非常方便。使用C++ 11标准编写，使用json像使用 STL 容器一样，STL和json容器之间可以相互转换。所有类都经过严格的单元测试，覆盖了100%的代码，包括所有特殊的行为。此外，还检查了 Valgrind 是否有内存泄漏。为了保持高质量，该项目遵循核心基础设施倡议(CII)的最佳实践，最新版本是[v3.0.0](https://github.com/nlohmann/json/archive/v3.0.0.zip)。 
+[JSON for Modern C++](https://github.com/nlohmann/json/): JSON for Modern C++是一个由德国大牛 nlohmann编写的在C++下使用的JSON库。整个代码由一个头文件组成 json.hpp，没有子项目，没有依赖关系，没有复杂的构建系统，使用起来非常方便。使用C++ 11标准编写，使用json像使用 STL 容器一样，STL和json容器之间可以相互转换。所有类都经过严格的单元测试，覆盖了100%的代码，包括所有特殊的行为。此外，还检查了 Valgrind 是否有内存泄漏。为了保持高质量，该项目遵循核心基础设施倡议(CII)的最佳实践，最新版本是[v3.0.0](https://github.com/nlohmann/json/archive/v3.0.0.zip)。
 
 ## 网络代理
 [Nuster](https://github.com/jiangwenyuan/nuster/): Nuster是用C实现的一个基于HAProxy的Web缓存代理服务器，最新版本是[v1.7.9.1](https://github.com/jiangwenyuan/nuster/archive/v1.7.9.1.zip)。   
@@ -93,5 +96,5 @@
 ## 分析工具
 [MTuner](https://github.com/milostosic/MTuner): MTuner是用于Windows，PS4，PS3等的C / C ++内存分析器和内存泄漏查找器。MTuner利用一种新颖的内存分析和分析方法，保持基于时间的记录操作历史。 通过对整个数据集进行查询，可以对您的软件的内存相关行为提供独特的见解。，最新版本是[v4.0.7](https://github.com/milostosic/MTuner/archive/v4.0.7.zip)。    
 
-## Cheatsheet速查表
-[C++17/14/11](https://github.com/AnthonyCalandra/modern-cpp-features): 现代C++语言和库特性的速查表。    
+## 数据库工具
+[FastoNoSQL](https://github.com/fastogt/fastonosql): FastoNoSQL是跨平台的NoSQL数据库图形化管理工具，支持Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, UpscaleDB, ForestDB。最新版本是[ v1.14.0](https://github.com/fastogt/fastonosql/archive/v1.14.0.zip)。   
