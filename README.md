@@ -73,9 +73,12 @@
 [FastDFS](https://github.com/happyfish100/fastdfs/): FastDFS是一款C开发的开源的、分布式文件系统（Distributed File System），由淘宝开发平台部资深架构师余庆开发。作为一个分布式文件系统，它对文件进行管理，功能包括：文件存储、文件同步、文件访问（文件上传、文件下载）等，解决了大容量存储和负载均衡的问题，特别适合中小文件（建议范围：4KB < file_size <500MB），对以文件为载体的在线服务，如相册网站、视频网站等等具有显著的效果。最新版本是[v5.10](https://github.com/happyfish100/fastdfs/archive/V5.10.zip)。     
 
 ## 机器视觉
-[OpenCV](http://opencv.org/): OpenCV是一个基于BSD许可（开源）发行的跨平台计算机视觉库，可以运行在Linux、Windows、Android和Mac OS操作系统上。它轻量级而且高效——由一系列C函数和少量C++类构成，同时提供了Python、Ruby、MATLAB等语言的接口，实现了图像处理和计算机视觉方面的很多通用算法。OpenCV用C++语言编写，它的主要接口也是C++语言，但是依然保留了大量的C语言接口。该库也有大量的Python, Java and MATLAB/OCTAVE (版本2.5)的接口。最新版本是[v3.3.1](https://github.com/opencv/opencv/archive/3.3.1.zip)。     
+[OpenCV](http://opencv.org/): OpenCV是一个基于BSD许可（开源）发行的跨平台计算机视觉库，可以运行在Linux、Windows、Android和Mac OS操作系统上。它轻量级而且高效——由一系列C函数和少量C++类构成，同时提供了Python、Ruby、MATLAB等语言的接口，实现了图像处理和计算机视觉方面的很多通用算法。OpenCV用C++语言编写，它的主要接口也是C++语言，但是依然保留了大量的C语言接口。该库也有大量的Python, Java and MATLAB/OCTAVE (版本2.5)的接口。最新版本是[v3.4.0](https://github.com/opencv/opencv/archive/3.4.0.zip)。     
 
-[OpenBR](http://openbiometrics.org/): OpenBR是一个通用的生物测定学开源框架，支持Windows, Mac OS X, Linux平台，基于Apache 2.0许可发布，基于Qt和OpenCV，使用CMake构建系统。最新版本是[v1.1.0](https://github.com/biometrics/openbr/archive/v1.1.0.zip)。
+[OpenBR](http://openbiometrics.org/): OpenBR是一个通用的生物测定学开源框架，支持Windows, Mac OS X, Linux平台，基于Apache 2.0许可发布，基于Qt和OpenCV，使用CMake构建系统。最新版本是[v1.1.0](https://github.com/biometrics/openbr/archive/v1.1.0.zip)。   
+
+## 深度学习
+[TensorFlow](http://tensorflow.org/): TensorFlow是谷歌基于DistBelief进行研发的第二代人工智能学习系统，其命名来源于本身的运行原理。Tensor（张量）意味着N维数组，Flow（流）意味着基于数据流图的计算，TensorFlow为张量从流图的一端流动到另一端计算过程。TensorFlow是将复杂的数据结构传输至人工智能神经网中进行分析和处理过程的系统。TensorFlow可被用于语音识别或图像识别等多项机器深度学习领域，对2011年开发的深度学习基础架构DistBelief进行了各方面的改进，它可在小到一部智能手机、大到数千台数据中心服务器的各种设备上运行。最新版本是[v1.4.1](https://github.com/tensorflow/tensorflow/archive/v1.4.1.zip)。   
 
 ## 语音识别
 [Kaldi](http://kaldi-asr.org/): Kaldi是一个基于Apache许可（开源）发行的跨平台语音识别库，可以运行在Linux、Windows、Android和Mac OS操作系统上。代码托管在[Github](https://github.com/kaldi-asr/kaldi)。    
